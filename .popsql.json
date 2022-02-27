@@ -1,0 +1,23 @@
+{
+  "servers": [
+    {
+      "id": "c9649160-d8ba-11eb-9bf6-8d1ffa313f37",
+      "name": "cyn",
+      "client": "mysql",
+      "host": "localhost",
+      "port": 3306,
+      "socketPath": null,
+      "user": null,
+      "password": null,
+      "database": "mysql",
+      "shareConnection": null,
+      "cloudConnection": false,
+      "oauth": false,
+      "organizationId": 129049,
+      "postgresConnectionType": "usernamePassword",
+      "tableFilter": [],
+      "complete": true,
+      "ssl": false
+    }
+  ]
+}
